@@ -181,7 +181,7 @@ Consultez la documentation détaillée dans [`utils/README.md`](utils/README.md)
    ls /dev/otpdev*
    ```
 
-### 2. Deuxième Méthode : Clé et Temps (TOTP Simplifié) (`otp_time`)
+### 2. Deuxième Méthode : Clé et Temps (TOTP) (`otp_time`)
 
 #### Chargement du Module
 
